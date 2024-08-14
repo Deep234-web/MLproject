@@ -16,4 +16,4 @@ class CustomException(Exception):
 
     
     def __str__(self):
-        self.error_message
+        return self.error_message
