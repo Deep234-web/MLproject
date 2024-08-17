@@ -27,6 +27,7 @@ The application has been deployed on AWS Elastic Beanstalk with a continuous int
 
 ## Author
 Deep Rajani
+
 Email: deeprajani1999@gmail.com
 
 Feel free to reach out for any questions or suggestions!
