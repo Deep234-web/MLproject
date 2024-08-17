@@ -7,7 +7,7 @@ pymysql
 scikit-learn>=0.18 
 seaborn
 #xgboost
-catboost
+#catboost
 dill
 Flask
 #-e .
