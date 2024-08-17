@@ -24,8 +24,6 @@ The application has been deployed on AWS Elastic Beanstalk with a continuous int
 
 [AWS Deployed Application - Student Score Prediction](http://studentscoreprediction-env.eba-zq5zfp6y.us-east-1.elasticbeanstalk.com/predictdata)
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
 Deep Rajani
